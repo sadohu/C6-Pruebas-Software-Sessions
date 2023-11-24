@@ -1,0 +1,9 @@
+[submodule "C6-Pruebas-Software-Tema2-Sesion1"]
+	path = C6-Pruebas-Software-Tema2-Sesion1
+	url = https://github.com/sadohu/C6-Pruebas-Software-Tema2-Sesion1
+[submodule "C6-Pruebas-Software-Tema2-Sesion1b"]
+	path = C6-Pruebas-Software-Tema2-Sesion1b
+	url = https://github.com/sadohu/C6-Pruebas-Software-Tema2-Sesion1b
+[submodule "C6-PruebasSoftware-CL1"]
+	path = C6-PruebasSoftware-CL1
+	url = https://github.com/sadohu/C6-PruebasSoftware-CL1
